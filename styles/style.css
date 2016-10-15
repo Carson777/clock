@@ -1,0 +1,39 @@
+.cBackground{
+	background-color: blue;
+	max-width: 100%;
+	height: 800px;
+	position: relative;
+}
+.gBackground{
+	opacity: 0.5;
+	max-width: 100%;
+	height: 800px;
+	background-image: radial-gradient(white, black);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+/* 	background-color: white; */
+	
+}
+.clockHouse{
+	text-align: center;
+	padding-top: 400px;
+  
+}
+
+.clockFace{
+	color: black;
+  width: 10%;
+  margin: auto; 
+  position: relative;
+}
+
+.line{
+  width: 480px;
+  background-color: black;
+  height: 5px;
+  margin: auto;
+  position: relative;
+}
